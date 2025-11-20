@@ -7,6 +7,6 @@ Atividades feitas para a disciplina de Sistemas Inteligentes 2 do curso de Engen
 ## Autores
 Nicolas Romano
 
-Michel Pariz
+Michael Pariz
 
 Felipe Natan Zanqueta
