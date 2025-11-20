@@ -9,9 +9,6 @@ O código realiza três etapas principais:
 1.  ### **Treinamento do Denoising Autoencoder (dAE)**
     * Um Autoencoder Convolucional é treinado para **remover ruído Gaussiano** das imagens do dataset **CIFAR-10**.
     * O objetivo é forçar o **Encoder** a aprender características robustas e essenciais da imagem, ignorando o ruído.
-    * 
-
-[Image of Denoising Autoencoder Architecture]
 
 
 2.  ### **Transferência de Conhecimento**
