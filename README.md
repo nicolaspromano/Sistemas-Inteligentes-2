@@ -1,6 +1,6 @@
 # Sistemas-Inteligentes-2
 
-Atividades feitas para a disciplina de Sistemas Inteligentes 2 do cursod e Engenharia de Computação UTFPR
+Atividades feitas para a disciplina de Sistemas Inteligentes 2 do curso de Engenharia de Computação UTFPR
 
 ---
 
