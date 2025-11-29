@@ -9,7 +9,7 @@ O projeto foi desenvolvido como parte da disciplina de **Sistemas Inteligentes 2
 O objetivo é treinar um modelo de Deep Learning capaz de identificar emoções em imagens de baixa resolução (48x48 pixels) em escala de cinza, utilizando técnicas de Visão Computacional.
 
 ### Dataset
-Utilizamos o dataset **FER2013** (Facial Expression Recognition), contendo:
+Foi utilizado o dataset **FER2013** (Facial Expression Recognition), contendo:
 * **7 Classes:** Raiva, Nojo, Medo, Feliz, Neutro, Triste, Surpresa.
 * **Imagens:** 48x48 pixels (Grayscale).
 * **Divisão:** Treino (~28k imagens) e Teste (~7k imagens).
@@ -44,14 +44,14 @@ Certifique-se de ter as bibliotecas instaladas. Você pode instalar via pip:
 pip install tensorflow scikit-learn matplotlib numpy
 ```
 
-### Compilar
+### 2. Compilar
 
-# Rodar com configurações padrão
+## Rodar com configurações padrão
 ```bash
 python CNN_emocoes.py --data_dir "caminho/para/dataset"
 ```
 
-# Rodar personalizando épocas, batch size e pasta de saída
+## Rodar personalizando épocas, batch size e pasta de saída
 ```bash
 python CNN_emocoes.py --data_dir "./dataset" --epochs 50 --batch_size 64 --out_dir "meus_resultados"
 ```
