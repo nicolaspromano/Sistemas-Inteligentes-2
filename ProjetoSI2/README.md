@@ -13,7 +13,10 @@ Foi utilizado o dataset **FER2013** (Facial Expression Recognition), contendo:
 * **7 Classes:** Raiva, Nojo, Medo, Feliz, Neutro, Triste, Surpresa.
 * **Imagens:** 48x48 pixels (Grayscale).
 * **Divisão:** Treino (~28k imagens) e Teste (~7k imagens).
-Disponível em: https://www.kaggle.com/datasets/msambare/fer2013
+
+Disponível em: https://www.kaggle.com/datasets/msambare/fer2013 .
+
+O arquivo .zip deve ser baixado para correto funcionamento.
 
 Estrutura das pastas
 ```bash
