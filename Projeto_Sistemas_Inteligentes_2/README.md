@@ -4,7 +4,7 @@ Este projeto implementa um sistema de Visão Computacional baseado em **Deep Lea
 
 O sistema utiliza uma **Rede Neural Convolucional (CNN)** treinada no dataset **FER2013**. O fluxo de desenvolvimento foi dividido em duas etapas estratégicas: treinamento de alta performance na nuvem (Google Colab) e inferência leve em máquina local (VS Code).
 
-Junto aos códigos, foram incluidos o artigo e a apresentação em slides solicitadas pelo professor Dr. Rafael Gomes Mantovani.
+Junto aos códigos, foram incluidos o artigo e a apresentação em slides solicitados pelo professor Dr. Rafael Gomes Mantovani.
 
 ---
 
