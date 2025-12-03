@@ -72,9 +72,9 @@ Passo 2: Execução Local (VS Code / Terminal):
    python webcam_emocoes.py
    ```
 4. Interação:
-  * A webcam abrirá e detectará seu rosto automaticamente.
-  * A emoção predita e a barra de confiança aparecerão sobre sua imagem.
-  * Pressione a tecla 'q' para encerrar o programa.
+     * A webcam abrirá e detectará seu rosto automaticamente.
+     * A emoção predita e a barra de confiança aparecerão sobre sua imagem.
+      * Pressione a tecla 'q' para encerrar o programa.
 
 ---
 
