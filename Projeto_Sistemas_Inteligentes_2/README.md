@@ -79,7 +79,7 @@ Passo 2: Execução Local (VS Code / Terminal):
 ---
 
 ## 👨‍💻 Autores
-Nicolas de Paulo Romano:
+Nicolas de Paulo Romano
 
 Felipe Natan Zanqueta Macaúbas
 
